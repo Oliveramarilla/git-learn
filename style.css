@@ -12,3 +12,9 @@ body{
     justify-content: center;
     min-height: 100vh;
 }
+
+img{
+    width: 200px;
+    height: 200px;
+    border: black solid 2px;
+}
